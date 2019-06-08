@@ -12,7 +12,7 @@ Related repos w/ source codes:
       https://github.com/yasperzee/esp12e.git
   - mqtt_gsheet_gateway, Docker compliant Python3 app:   
       https://github.com/yasperzee/Python3.git
-  - mosquitto server, Raspberry Pi3 image build with YoctoProject 2.6
-    https://github.com/yasperzee/Raspberry_PI3.git
+  - mosquitto server, Raspberry Pi3 image build with YoctoProject 2.6:
+      https://github.com/yasperzee/Raspberry_PI3.git
   
 Phase 2:
