@@ -17,6 +17,8 @@ Related repos w/ source codes:
 Phase 2:
 - ESP32 (SOC is xtensa lx6 by Tensilica)
   -https://ip.cadence.com/news/104/330/Tensilica-s-Xtensa-LX-Processor-Beats-All-Other-32-and-64-bit-Processor-Cores-On-EEMBC-Consumer-Out-of-the-Box-Benchmar
-- FreeRTOS or NuttX RTOS
+- FreeRTOS https://www.freertos.org/
+or 
+- NuttX RTOS http://www.nuttx.org/
  
   
