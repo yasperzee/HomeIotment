@@ -2,7 +2,8 @@
 Building SmartHome using OpenSource software tools and affordable Hardware like NodeMcu and Raspberry pi
 New version, no repos here, just documentation and instructions
 
-Phase 1:
+Phase 1: 
+See project. https://github.com/yasperzee/Homeiotment/projects/4
 
   
 Phase 2:
